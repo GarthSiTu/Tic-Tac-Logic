@@ -1,0 +1,5 @@
+C:\Users\still\Desktop\net6.0-windows\新建文件夹\WinFormsApp1.exe
+C:\Users\still\Desktop\net6.0-windows\新建文件夹\WinFormsApp1.dll
+C:\Users\still\Desktop\net6.0-windows\新建文件夹\WinFormsApp1.deps.json
+C:\Users\still\Desktop\net6.0-windows\新建文件夹\WinFormsApp1.runtimeconfig.json
+C:\Users\still\Desktop\net6.0-windows\新建文件夹\WinFormsApp1.pdb

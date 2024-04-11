@@ -1,0 +1,5 @@
+C:\Users\still\Desktop\井字棋智能版winform\井字棋.exe
+C:\Users\still\Desktop\井字棋智能版winform\井字棋.dll
+C:\Users\still\Desktop\井字棋智能版winform\井字棋.deps.json
+C:\Users\still\Desktop\井字棋智能版winform\井字棋.runtimeconfig.json
+C:\Users\still\Desktop\井字棋智能版winform\井字棋.pdb
